@@ -8,5 +8,3 @@ Confirmando participação
 ## Objetivo
 
 ## Instalação e configuração
-
-Instalação realizada - matheustavares25
