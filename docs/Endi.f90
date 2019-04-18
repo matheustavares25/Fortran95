@@ -1,8 +1,7 @@
-# Program
+! Program 
 
-## Variables
+! Variables
 
-## Instructions
+! Instructions
 
-# End Program
-
+! End Program
