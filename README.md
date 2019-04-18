@@ -2,7 +2,7 @@
 
 ## Nosso grupo de Fortran criado no curso de GIT
 
-## Memebros:
+## Membros:
 
 
 * matheustavares25
