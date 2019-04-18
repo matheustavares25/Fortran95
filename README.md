@@ -8,4 +8,3 @@ Confirmando participação
 ## Objetivo
 
 ## Instalação e configuração
-
